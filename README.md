@@ -1,3 +1,6 @@
+# Pull Requests
+AArch64 suppurt: https://github.com/tsarpaul/FBUnpinner/pull/24
+
 # FBUnpinner
 ## Works for Instagram & Facebook
 
